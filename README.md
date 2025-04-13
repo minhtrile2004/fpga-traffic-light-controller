@@ -25,9 +25,13 @@ This Verilog project simulates a traffic light system using a Finite State Machi
 ## 📷 Screenshots
 ![Demo](doc/schematic.png)
 
-## 👨‍💻 Author
-LE MINH TRI - 3rd Year Computer Engineering Student  - https://github.com/minhtrile2004
-MSSV: 22680551
+
+## 🧑‍💻 Author
+
+**Le Minh Tri - 3rd Year Computer Engineering Student**  
+📧 minhtri.lmt2004@gmail.com
+🌐 [GitHub Profile](https://github.com/minhtrile2004)
+
 
 ## 📜 License
 MIT License
